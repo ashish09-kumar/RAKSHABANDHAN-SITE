@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #ffdde1, #ee9ca7);
+    text-align: center;
+    padding: 50px;
+}
+
+
+.container {
+    background: white;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    display: inline-block;
+}
+
+h1 {
+  color: #d6336c;
+}
+
+button {
+  background: #d6336c;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+button:hover {
+  background: #a61e4d;
+}
+
+#message {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #333;
+}
